@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./captura_user_pass "Optional title")
+![Alt text](./captura_user_pass.png "Optional title") 
